@@ -1,0 +1,13 @@
+# 本地运行时（由 scripts/download-runtime.bat 下载，不入库）
+python-embed/
+python-embed.zip
+
+# 本地配置与日志（含真实 IP，勿提交）
+config.json
+bridge.log
+
+__pycache__/
+*.pyc
+
+.DS_Store
+Thumbs.db

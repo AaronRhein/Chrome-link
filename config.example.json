@@ -1,0 +1,16 @@
+{
+  "transfer_side": "left",
+  "peer_ip": "OTHER_PC_LAN_IP",
+  "peer_port": 9430,
+  "listen": "0.0.0.0",
+  "secret": "please-change-to-a-long-random-string",
+  "ws_port": 9422,
+  "trigger_mode": "shift",
+  "debug": false,
+  "modifier_vk": 16,
+  "zone_px": 45,
+  "fling_ratio": 0.45,
+  "hotkey": { "enabled": true, "mod": 3, "vk": 71 },
+  "chrome_path": "",
+  "anim_ms": 240
+}
